@@ -1,0 +1,28 @@
+body {
+  background-color: #000;
+  margin:0px;
+}
+canvas {
+  position:absolute;
+  background-color: transparent;
+  width:320px;
+  height:568px;
+}
+#list {
+  position:absolute;
+  margin:20px 0px 0px 0px;
+  top:0px;
+  left:0px;
+  width:100%;
+  font-family: '.HiraKakuInterface-W6', 'ヒラギノ角ゴ Pro W6', Meiryo, 'メイリオ';
+  font-size: 18px;
+  color:#FFFFFF;
+  text-shadow: 1px 1px 4px #CCCCCC;
+}
+.item {
+  width:100%;
+  background-color: #222222;
+  border-width: 0px 0px 2px 0px;
+  border-style: solid;
+  border-color: #000000;
+}
